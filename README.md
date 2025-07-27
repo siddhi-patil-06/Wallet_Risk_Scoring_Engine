@@ -157,7 +157,7 @@ You’ll need to set your `ETHERSCAN_API_KEY` inside the script.
 
 ## ⚙️ Configuration Options
 
-Inside `risk_scoring.py`:
+Inside `Wallet_Risk_Scoring_Engine.ipynb`:
 
 ```python
 SCORE_MAX = 1000
